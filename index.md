@@ -1,6 +1,8 @@
 ## Welcome to FSJ-Digital-page
 
 
+
+
 im folgenden geben wir einen Überblick auf das Seminarangebot des FSJ-Digital. 
 
 
@@ -13,7 +15,7 @@ links:
 
 Beispiel: learn by example https://www.learnbyexample.org/
 
-##Funktionen: 
+## Funktionen: 
 [python functions](https://www.learnbyexample.org/python-functions/)
 Learn Python By Example: Start from basic level and move all the way up to professional references
 
@@ -21,7 +23,7 @@ Learn Python By Example: Start from basic level and move all the way up to prof
 “Building a Simple PhoneBook” — #LearnPythonThroughProjects: Series 10
 
 
-###Project Based Learning
+### Project Based Learning
 https://github.com/tuvtran/project-based-learning
 
 A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermixed technologies and languages. To get started, simply fork this repo. Please refer to CONTRIBUTING.md for contribution guidelines.
