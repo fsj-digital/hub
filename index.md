@@ -15,8 +15,7 @@ links:
 
 Beispiel: learn by example https://www.learnbyexample.org/
 
-## Funktionen: 
-[python functions](https://www.learnbyexample.org/python-functions/)
+## Funktionen: [python functions](https://www.learnbyexample.org/python-functions/)
 Learn Python By Example: Start from basic level and move all the way up to professional references
 
 [“Building a Simple PhoneBook”](https://mardiyyah.medium.com/building-a-simple-phonebook-learnpythonthroughprojects-series-10-af56d527f463)
