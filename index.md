@@ -1,6 +1,33 @@
 ## Welcome to FSJ-Digital-page
 
 
+im folgenden geben wir einen Überblick auf das Seminarangebot des FSJ-Digital. 
+
+
+
+Python 
+###Learn by projects: 
+###Learn by examples: 
+
+links:
+
+Beispiel: learn by example https://www.learnbyexample.org/
+
+##Funktionen: 
+[python functions](https://www.learnbyexample.org/python-functions/)
+Learn Python By Example: Start from basic level and move all the way up to professional references
+
+[“Building a Simple PhoneBook”](https://mardiyyah.medium.com/building-a-simple-phonebook-learnpythonthroughprojects-series-10-af56d527f463)
+“Building a Simple PhoneBook” — #LearnPythonThroughProjects: Series 10
+
+
+###Project Based Learning
+https://github.com/tuvtran/project-based-learning
+
+A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermixed technologies and languages. To get started, simply fork this repo. Please refer to CONTRIBUTING.md for contribution guidelines.
+
+
+
 You can use the [editor on GitHub](https://github.com/fsj-digital/page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
