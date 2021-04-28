@@ -22,12 +22,12 @@ our page at the IB-Volunteering-site:  [FSJ-Digital in Heidelberg](https://ib-fr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/)
  
-😄 Pronouns: She/Her/Hers <br>
+😄 Pronouns: we/us/ors <br>
 ⚡ Fun facts:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  we love making music You can hear us making music here: [University-Church in Heidelberg](https://youtu.be/6OqKzrY2hFQ)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br>
  
- 
+ <br><br><br><br><br>
 
 🔭 *also Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [R]()<br>
