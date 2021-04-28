@@ -1,7 +1,5 @@
 ## Welcome to FSJ-Digital-page
 
-<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
-
 
 
 im folgenden geben wir einen Überblick auf das Seminarangebot des FSJ-Digital. 
@@ -10,7 +8,10 @@ im folgenden geben wir einen Überblick auf das Seminarangebot des FSJ-Digital.
 
 ##### Python: 
 ### Learn by projects: 
-### Learn by examples: 
+<br>
+ <br>
+ <br>
+ ### Learn by examples: 
 
 links:
 
