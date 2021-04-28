@@ -44,16 +44,15 @@ im folgenden geben wir einen Überblick auf das Seminarangebot des FSJ-Digital.
 ### Learn by projects: 
 ### Learn by examples: 
 
-links:
+Hier zeigen Wir euch exemplarisch ein paar Ansätze - beispiel und projektorientierten Lernens
 
 Beispiel: learn by example https://www.learnbyexample.org/
 
-##### Funktionen: [python functions](https://www.learnbyexample.org/python-functions/)
+##### Funktionen: [python functions](https://www.learnbyexample.org/python-functions/) 
 Learn Python By Example: Start from basic level and move all the way up to professional references
 
 [“Building a Simple PhoneBook”](https://mardiyyah.medium.com/building-a-simple-phonebook-learnpythonthroughprojects-series-10-af56d527f463)
 “Building a Simple PhoneBook” — #LearnPythonThroughProjects: Series 10
-
 
 ### Project Based Learning
 https://github.com/tuvtran/project-based-learning
