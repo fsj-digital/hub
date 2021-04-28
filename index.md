@@ -8,10 +8,7 @@ im folgenden geben wir einen Überblick auf das Seminarangebot des FSJ-Digital.
 
 ##### Python: 
 ### Learn by projects: 
-<br>
- <br>
- <br>
- ### Learn by examples: 
+### Learn by examples: 
 
 links:
 
