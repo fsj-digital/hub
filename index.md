@@ -2,7 +2,7 @@
 
 
 
-<img src="https://imgur.com/EQB08Qd"/>
+<img src="https://i.imgur.com/EQB08Qd"/>
  
 ### Hi there 👋, We re the team of FSJ-Digital - a volunteering group: and we re  PUTTING SKILLS INTO ACTION So many ways to volunteer <br>
  
