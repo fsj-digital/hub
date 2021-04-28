@@ -18,16 +18,16 @@ our page at the IB-Volunteering-site:  [FSJ-Digital in Heidelberg](https://ib-fr
 🤔 *Looking for help*: I'm looking for help with trying to find the best way to organize this page for Python newbies.<br>
 💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br>
 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](Martin.Kaspar@ib.de)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](Martin.Kaspar@ib.de)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/)
- 
+ <br>
 😄 Pronouns: we/us/ors <br>
 ⚡ Fun facts:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  we love making music You can hear us making music here: [University-Church in Heidelberg](https://youtu.be/6OqKzrY2hFQ)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br>
  
- <br><br><br><br><br>
+ <br><br><br><br>
 
 🔭 *also Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [R]()<br>
@@ -40,7 +40,7 @@ our page at the IB-Volunteering-site:  [FSJ-Digital in Heidelberg](https://ib-fr
 
 im folgenden geben wir einen Überblick auf das Seminarangebot des FSJ-Digital. 
 
-##### Python: 
+#### Python: 
 ### Learn by projects: 
 ### Learn by examples: 
 
@@ -48,7 +48,7 @@ links:
 
 Beispiel: learn by example https://www.learnbyexample.org/
 
-## Funktionen: [python functions](https://www.learnbyexample.org/python-functions/)
+##### Funktionen: [python functions](https://www.learnbyexample.org/python-functions/)
 Learn Python By Example: Start from basic level and move all the way up to professional references
 
 [“Building a Simple PhoneBook”](https://mardiyyah.medium.com/building-a-simple-phonebook-learnpythonthroughprojects-series-10-af56d527f463)
